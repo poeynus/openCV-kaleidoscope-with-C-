@@ -1,5 +1,5 @@
 # openCV-kaleidoscope-with-C-
-openCV kaleidoscope by histogram with C++ 
+openCV kaleidoscope with C++
 
 Img from https://grafolio.naver.com/apakdp
 
